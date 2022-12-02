@@ -10,14 +10,16 @@ function App() {
       <div className="header">
         <Header />
       </div>
-      <div className="panel">
-        <DrawPanel />
-      </div>
-      <div className="panel">
-        <TokenPanel />
-      </div>
-      <div className="panel">
-        <SealPanel />
+      <div className="panel-wrapper">
+        <div className="panel">
+          <DrawPanel />
+        </div>
+        <div className="panel">
+          <TokenPanel />
+        </div>
+        <div className="panel">
+          <SealPanel />
+        </div>
       </div>
     </div>
   );
