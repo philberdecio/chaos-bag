@@ -15,25 +15,5 @@
   color: white;
 } */
 
-.header {
-  font-family: 'Dancing Script', cursive;
-  align-items: center;
-  width: 100%;
-  max-height: fit-content;
-  background-color: lightslategray;
-  display: flex;
-  justify-content: space-around;
-  flex-direction: column;
-}
 
-.panel-wrapper {
-  display: flex;
-  width: 100vw;
-  flex-flow: row wrap;
-  justify-content: space-around;
-  background-color: darkslategrey;
-  padding: 0;
-  margin: 20px 0 0 0;
-  list-style: none;
-}
 
