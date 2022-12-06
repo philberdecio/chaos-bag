@@ -16,6 +16,7 @@ code {
 
 .header {
   font-family: 'New Rocker', cursive;
+  font-size: x-large;
   align-items: center;
   width: 100%;
   max-height: fit-content;
