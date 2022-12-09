@@ -1,6 +1,6 @@
 function TokenPanel () {
     return (
-        <h1 className="panel">Token Panel</h1> 
+        <h1>Token Panel</h1> 
     )
 }
 
