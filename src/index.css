@@ -38,6 +38,8 @@ code {
 }
 
 .panel {
+  display: flex;
+  flex-flow: column wrap;
   font-family: 'New Rocker', cursive;
   padding: 5px;
   width: 330px;
