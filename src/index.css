@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=New+Rocker&family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Limelight&display=swap');
 
 body {
   margin: 0;
@@ -41,6 +42,7 @@ code {
   display: flex;
   flex-flow: column wrap;
   font-family: 'New Rocker', cursive;
+  font-family: 'Limelight', cursive;
   padding: 5px;
   width: 330px;
   height: 710px;
